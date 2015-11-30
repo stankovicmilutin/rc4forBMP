@@ -1,0 +1,9 @@
+c:\users\nutic\documents\visual studio 2013\Projects\ZI-Lab02\ZI-Lab02\bin\Debug\ZI-Lab02.exe.config
+c:\users\nutic\documents\visual studio 2013\Projects\ZI-Lab02\ZI-Lab02\bin\Debug\ZI-Lab02.exe
+c:\users\nutic\documents\visual studio 2013\Projects\ZI-Lab02\ZI-Lab02\bin\Debug\ZI-Lab02.pdb
+c:\users\nutic\documents\visual studio 2013\Projects\ZI-Lab02\ZI-Lab02\obj\Debug\ZI-Lab02.csprojResolveAssemblyReference.cache
+c:\users\nutic\documents\visual studio 2013\Projects\ZI-Lab02\ZI-Lab02\obj\Debug\ZI_Lab02.Form1.resources
+c:\users\nutic\documents\visual studio 2013\Projects\ZI-Lab02\ZI-Lab02\obj\Debug\ZI_Lab02.Properties.Resources.resources
+c:\users\nutic\documents\visual studio 2013\Projects\ZI-Lab02\ZI-Lab02\obj\Debug\ZI-Lab02.csproj.GenerateResource.Cache
+c:\users\nutic\documents\visual studio 2013\Projects\ZI-Lab02\ZI-Lab02\obj\Debug\ZI-Lab02.exe
+c:\users\nutic\documents\visual studio 2013\Projects\ZI-Lab02\ZI-Lab02\obj\Debug\ZI-Lab02.pdb
